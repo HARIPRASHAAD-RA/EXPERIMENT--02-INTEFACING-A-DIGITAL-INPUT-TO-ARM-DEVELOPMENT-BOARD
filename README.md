@@ -166,13 +166,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![LED OFF PMC EXP2](https://github.com/charumathiramesh/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120204455/08b0e724-999e-4ceb-8df8-5e3fd846a7c8)
-
-![LED ON WHILE BLINKING NEW PMC EXP2](https://github.com/charumathiramesh/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120204455/b57d0436-55c0-4528-b39e-77c6ef8f9f1e)
-
-
-
-![LED OFF WHILE BLINKIN PMCEXP2](https://github.com/charumathiramesh/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120204455/f2431dfc-58a8-48e2-98ef-3b899363609a)
+![image](https://github.com/user-attachments/assets/85be6b80-c20e-4e70-bc8b-d9ae819609d0)
+## LAYOUT OF THE CIRCUIT:
+![image](https://github.com/user-attachments/assets/c659d663-5249-4f74-ae82-77ded7616ab8)
 
 
  
