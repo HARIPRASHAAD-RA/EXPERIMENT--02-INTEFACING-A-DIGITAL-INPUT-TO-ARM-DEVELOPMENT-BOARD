@@ -52,8 +52,8 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 ## STM 32 CUBE PROGRAM :
 ```C
-NAME : CHARUMATHI R
-REFNO : 212222240021
+NAME : HARIPRASHAAD RA
+REFNO : 212223040060
 
 
 #include "main.h"
